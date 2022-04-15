@@ -1,6 +1,8 @@
+# Twig Graph
 
+A program to generate a graph of twig template relationships.
 
-TODO: 
+### TODO 
 - Handle extends
 - Normalize file paths
 - Double check error handling and defaults
